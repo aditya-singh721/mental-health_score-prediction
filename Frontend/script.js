@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "https://vercel.com/aditya-3796/mental-health_score-prediction-backend/H1Kso7jFt9Rp4foLvfTxQdeQFR9S";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
